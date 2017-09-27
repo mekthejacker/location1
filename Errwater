@@ -1,0 +1,7 @@
+# After creating a database called Errwater
+
+use Errwater;
+SHOW TABLES;
+CREATE TABLE Territories (
+tid TINYINT NOT NULL AUTO_INCREMENT,
+tname varchar(20),
