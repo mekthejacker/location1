@@ -1,4 +1,6 @@
 # After creating a database called Errwater
+# this table should contain the following
+# 
 
 use Errwater;
 SHOW TABLES;
