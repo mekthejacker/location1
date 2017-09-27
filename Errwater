@@ -1,9 +1,0 @@
-# After creating a database called Errwater
-# this table should contain the following
-# 
-
-use Errwater;
-SHOW TABLES;
-CREATE TABLE Territories (
-tid TINYINT NOT NULL AUTO_INCREMENT,
-tname varchar(20),
